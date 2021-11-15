@@ -1,0 +1,33 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   img/apple-touch-icon.png
+#	new file:   img/counters-bg.jpg
+#	new file:   img/favicon.png
+#	new file:   img/intro-bg - Copy.jpg
+#	new file:   img/intro-bg.jpg
+#	new file:   img/overlay-bg.jpg
+#	new file:   img/post-1.jpg
+#	new file:   img/post-2.jpg
+#	new file:   img/post-3.jpg
+#	new file:   img/testimonial-2.jpg
+#	new file:   img/testimonial-4.jpg
+#	new file:   img/work-1.jpg
+#	new file:   img/work-2.jpg
+#	new file:   img/work-3.jpg
+#	new file:   img/work-4.jpg
+#	new file:   img/work-5.jpg
+#	new file:   img/work-6.jpg
+#	new file:   index.html
+#	new file:   style.css
+!
+tp
+exit;
+:wq;
+

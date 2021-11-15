@@ -1,0 +1,203 @@
+@charset "utf-8";
+
+body {
+    background-color: #f5f5f5;
+    color: #4e4e4e;
+}
+
+a {
+    color: #4e4e4e;
+}
+
+
+.navbar {
+    background-color:rgba(0,0,0,3);
+}
+
+.hero {
+    background-image: url(img/intro-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.intro-title {
+    color: #fff;
+    text-align: center;
+    font-size: 4.5rem;
+}
+
+.title-s {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.line-left {
+    width: 80px;
+    height: 3px;
+    background-color: #0078ff;
+}
+
+.mt4rem {
+    margin-top: 4rem;
+}
+
+.big-h2 {
+        font-weight: bold;
+        font-size: 3rem;
+}
+
+.line-mf {
+    width: 40px;
+    height: 5px;
+    background-color: #0078ff;
+    margin: 0 auto;
+}
+
+/* Services */
+.service-box {
+    padding: 2.5rem 1.3rem;
+    border-radius: 1rem;
+    margin-bottom: 3rem;
+}
+
+.ico-circle {
+    height: 100px;
+    width:  100px;
+    border-radius: 50%;
+    margin: 0 auto;
+    padding-top: 25px;
+    text-align: center;
+    box-shadow: 0 0 0 10px #0078ff;
+    display: block;
+}
+
+#container{
+    padding: 8rem 0;
+    background-image: url(img/counters-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* counter */
+
+#counter {
+    padding: 8rem 0;;
+    background-image: url(img/counters-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.counter-box {
+    color: #fff;
+    text-align: center;
+}
+
+.counter-box .ico-circle {
+    height: 60px;
+    width: 60px;
+    padding-top: 15px;
+    box-shadow: 0 0 0 10px #cde1f8;
+}
+
+.counter {
+    display:block;
+    font-size: 2rem;
+}
+
+/* potfolio */
+
+.w-title {
+    font-size: 1.15rem;
+}
+
+.w-more {
+    font-size: .85em;
+}
+
+.w-blue {
+    color: #0078ff;
+}
+
+.testimonials{
+    min-height: 500px;
+    height: 60vh;
+    background-image: url(img/overlay-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.testimonial-text {
+    max-width: 700px;
+    margin: 1rem auto;
+}
+
+#contact {
+    background-image: url(img/overlay-bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#blog .card-title {
+    font-size: 1.2rem;
+}
+
+#blog .card-body {
+    position: relative;
+}
+
+.card-category-box {
+    position: absolute;
+    top: -16px;
+    left: 15px;
+    right: 15px;
+    text-align: center;
+}
+
+.card-category {
+    display: inline-block;
+    color: #fff;
+    padding: 0 15px 5px;
+    overflow: hidden;
+    background-color: #0078ff;
+    border-radius: 4px;
+}
+
+
+
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    margin-right: 4px;
+    overflow: hidden;
+}
+
+.button-rounded {
+    border-radius: 5rem;
+}
+
+#contact ul {
+    list-style:none;
+}
+
+#contact .ico-circle {
+    height: 40px;
+    width: 40px;
+    padding-top: 9px;
+    box-shadow: 0 0 0 3px #0078ff;
+}
+
+footer {
+    text-align:center;
+    color: #fff;
+    padding: 25px 0;
+    background: #0062d3;
+}
+
+footer a {
+    color: #fff;
+}
+
+h1,h2,h3,h4 {
+    color: #1e1e1e;
+}
